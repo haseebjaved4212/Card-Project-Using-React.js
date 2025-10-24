@@ -1,6 +1,6 @@
 import React from "react";
 import "remixicon/fonts/remixicon.css";
-import Button from "../../../../components/Button";
+import Button from "./Button";
 const UserCard = (props) => {
   return (
     <>
