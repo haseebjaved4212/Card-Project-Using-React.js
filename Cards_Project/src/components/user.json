@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    
+    "Name": "Nancy",
+    "role": "Full Stack Developer",
+    "Image": "https://i.pinimg.com/1200x/35/47/48/354748cd835832ec6925e8394a6deebc.jpg"
+  },
+  {
+    "id": "2",
+    "Name": "Jinwoo",
+    "role": "Software Engineer",
+    "Image": "https://i.pinimg.com/736x/2e/7d/ba/2e7dbaf7e16dbbe5e10f175d3257c1d3.jpg"
+  },
+  {
+    "id": "3",
+    "Name": "Obito",
+    "role": "Laravel Developer",
+    "Image": "https://i.pinimg.com/736x/2c/36/88/2c3688d7e305ec9057d76f2d0e567e4a.jpg"
+  },
+
+  {
+    "id": "4",
+    "Name": "Itachi ",
+    "role": "AI/Ml Engineer ",
+    "Image": "https://i.pinimg.com/736x/45/f0/60/45f0605ebcd2f65b91b4f67a41634b5f.jpg"
+  }
+]
