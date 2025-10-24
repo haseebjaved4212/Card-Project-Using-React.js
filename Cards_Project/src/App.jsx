@@ -1,6 +1,6 @@
 import React from "react";
 import UserCard from "./components/UserCard";
-import Data from "../../../components/user.json";
+import Data from "./components/user.json";
 
 const App = () => {
   return (
